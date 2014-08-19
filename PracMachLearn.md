@@ -6,6 +6,8 @@ date: 18 August 2014
 Overview
 ========================================================
 
+This is best viewed Full Screen. Some content may clip window-bottoms depending on browser & monitor config.
+
 This presentation is my submission for the Write-up portion of the course project
 for the Coursera Practical Machine Learning course offered by Johns Hopkins department
 of Biostatistics.  Our objectives are:
